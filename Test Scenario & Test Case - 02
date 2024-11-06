@@ -1,0 +1,43 @@
+Test Case
+
+- Sebuah rangkaian tindakan yang dilaksanakan untuk memverifikasi
+  fitur atau fungsionalitas tertentu dari aplikasi pereangkat lunak anda
+- Mengandung langkah-langkah uji (test-step), data uji (test data), preconditions,
+  dan postconditions untuk memverifikasi setiap kebutuhan
+
+Test Scenario
+
+- Test Scenario n adalah satu kesatuan tetapi dikaitkan dengan beberapa test case
+- Mengerahkan pengguna tentang 'Apa yang harus di uji'
+- End to ed functional test
+- High evel action
+
+Test Case
+
+- Test Case terdiri dari Test case name, preconditions, Test Step, Expected result, dan post condition
+- Mengarahkan pengguna tentang 'cara menguji'
+- Validasi skenario pengujian dengan menjalankan serangkaian langkah
+- Low Level Action
+
+& Praktik Terbaik
+
+- Sederhana dan mudah dimengerti dengan 4 aturan:
+
+* String Description
+* Pre-conditions (jika ada)
+* The steps jelas
+* The expected results jelas dan mudah di cek kembali.
+
+- Perspektif Pengguna Akhir, Karena kami mengembangkan untuk kebutuhan pengguna, bukan kebutuhan kami
+- Hindari Pengulangan TC, jika ada langkah yang dapat duilang dari kasus uji apapun, gunakan kode TC ( Terapkan Kode/Nomor TC, karena akan berguna untuk referensi atau pemanasan apa pun selama pengujian dijalankan)
+- Jangan berasumsi, kasus uji yang tidak jelas akan menyebakan bug/penolakan yang terlewat
+- Pastikan 100% mencakup semua persyaratan atau persetujuan ( yang di nyatakan), setikdanya semua skenario positif dan negatif tercakup
+
+Test Status
+
+- Saat penguijan fimulai test case akan memiliki 4 kondisi yaitu:
+
+* Passed: kondisi dimana Actual dan Expected result sama
+* Failed: kondisi dimana Actuaal result dan Expected result berbeda
+* Blocked: KOndisi dimana test case tidak bisa di eksekusi karena ada fitur atau fungsi yang sedang diperbaiki.
+* Pending: kondisi dimana fungsi atau fitur yang sedang diuji sedang terdapat perbaikan atau terdapat pembatalan release
