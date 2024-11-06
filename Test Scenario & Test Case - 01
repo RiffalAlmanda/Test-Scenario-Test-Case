@@ -1,0 +1,24 @@
+Test Scneario
+
+Poin Belajar
+
+- Test Scneario
+- Test Case
+- Test Step
+- Case Study
+- Test Suite
+- Behavioral-Driven Development (BDD)
+
+Test Scenaerio
+
+- Test Cases didesain dari test scenario
+- Test cases membantu merencanakan seperti apa yang akan diuji.
+- Test cases dapat digunakan kembali ketika menemukan defect.
+- Test cases membuat testers mudah untuk diujij.
+- Untuk memverifikasi dan mencegah defect pada suatu project.
+
+Test Scenario
+
+Test scenario adalah sebuah rencana atau gambaran umum tentang apa yang akan diuji dalam proses pengujian perangkat lunak (software testing). Test scenario mendefinisikan kondisi atau situasi yang perlu diuji untuk memastikan bahwa perangkat lunak berfungsi sesuai dengan yang diharapkan.
+
+Secara sederhana, test scenario adalah sebuah skenario yang menggambarkan "apa yang akan diuji" tanpa merinci langkah-langkahnya secara detail. Test scenario biasanya digunakan dalam tahap perencanaan pengujian untuk mengidentifikasi area penting dari aplikasi yang perlu diperiksa..
