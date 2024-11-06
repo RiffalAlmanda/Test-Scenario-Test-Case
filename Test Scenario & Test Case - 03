@@ -1,0 +1,24 @@
+- Test Step
+
+* Langkah-langkah pengujian menjelaskan langkah-langkah eksekusi dan hasil yang diharapkan yang didokumentasikan untuk setiap langkah tersebut.
+  setiap lalngkah dinilai lulus atau gagal berdsarkan hasil perbandingan antara hasil yang diharapkan dan aktual.
+
+Test step merujuk pada langkah-langkah yang dilakukan dalam suatu proses pengujian (testing) untuk memverifikasi dan mengevaluasi fungsionalitas dari sebuah sistem, aplikasi, atau perangkat lunak. Setiap test step biasanya mencakup instruksi yang jelas dan terperinci mengenai tindakan yang harus diambil oleh penguji (tester) untuk menguji suatu fitur atau skenario.
+
+Secara umum, test step mencakup:
+
+Tindakan yang dilakukan (Action) – Apa yang perlu dilakukan oleh tester. Misalnya, memasukkan data, mengklik tombol, atau memilih opsi tertentu.
+Input yang diberikan – Data atau informasi yang dimasukkan atau dipilih selama pengujian.
+Hasil yang diharapkan (Expected Result) – Apa yang seharusnya terjadi setelah langkah tersebut diambil, berdasarkan spesifikasi atau persyaratan sistem.
+Hasil yang sebenarnya (Actual Result) – Hasil yang diperoleh setelah melakukan test step (ini digunakan untuk perbandingan dengan hasil yang diharapkan).
+Contoh test step sederhana:
+
+Test Step 1: Masukkan username dan password yang valid ke dalam form login.
+
+Input: Username = "user1", Password = "password123"
+Expected Result: Sistem berhasil mengautentikasi pengguna dan masuk ke halaman utama.
+Test Step 2: Klik tombol "Login".
+
+Input: Klik pada tombol "Login".
+Expected Result: Pengguna diarahkan ke halaman dashboard.
+Test steps ini disusun secara sistematis dalam suatu test case, yang biasanya digunakan untuk memandu pengujian dan memastikan bahwa aplikasi berf
