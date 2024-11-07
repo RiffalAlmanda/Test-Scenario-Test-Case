@@ -1,0 +1,20 @@
+Behavioral-Driven Development
+* BDD (Behavioral-Driven Development) adalah teknik pengembangan agile software
+* BDD berfokus pada perilaku aspek dari sistem daripada implementasi aspek dari fokus pada TDD. akan tetapi, memberikan pandangan yang jelas kepada sistem 
+harus melaukukan dari perspektif pengembangan dan pelanggan.
+
+Keuntungan & Kelemahan BDD
+- Keuntungan dari menggunakan BDD adalah:
+* LEbih berinteraksi dengan Stakeholder/Customer
+* Jika susati Function berubah, tidak perlu dilakukan pengetesan ulang selama fungsi tersebut tidak mengubah hasil akhir
+* Behavior Test dapat dilakukan dengan software apapun yang mirip, berbeda dengan Unit Test.
+
+Kelemahan dari BDD adalah:
+* Membutuhkan waktu yang lama untuk testing sesuatu
+* Kesulitan dalam melacak akar permasalahan jika terjadi suatu
+
+Gherkin Syntax
+* Gherkin menggunakan sekumpulan kata kunci khusus unutk memberikan struktur dan makna pada spesifikasi yang dapat dieksekusi. Setiap kata kunci diterjemahkan ke banyak bahasa lisa:
+dalam referensi ini kita akan menggunakan bahasa inggris.
+* Sebagian besar baris dalam dokumen gherkin dimulai dengan salah satu kata kunci.
+
