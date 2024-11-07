@@ -1,0 +1,9 @@
+Test Suite
+- Test Suite adalah sekelompok kasus uji yang dikelompokan untuk tujuan tertentu. ini dapat
+mencakup beberapa fungsionalitas atau fitur dalam sebuah aplikasi.
+
+Test suite adalah kumpulan dari berbagai tes atau test cases yang dirancang untuk menguji fungsi atau fitur tertentu dari perangkat lunak (software). Dalam konteks pengujian perangkat lunak, test suite digunakan untuk memastikan bahwa aplikasi atau sistem berjalan sesuai dengan yang diharapkan, dan untuk mendeteksi adanya bug atau kesalahan dalam kode.
+
+Test suite biasanya mencakup beberapa tes yang berbeda, yang masing-masing menguji bagian-bagian atau skenario spesifik dari perangkat lunak tersebut. Tujuannya adalah untuk memverifikasi bahwa seluruh aplikasi bekerja dengan baik setelah perubahan, pembaruan, atau penambahan fitur baru.
+
+Secara singkat, test suite adalah alat yang penting dalam memastikan kualitas perangkat lunak melalui pengujian yang sistematis dan menyeluruh.
